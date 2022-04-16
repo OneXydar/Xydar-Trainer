@@ -1,5 +1,5 @@
 # Xydar-Trainer
-![Download Here!](https://github.com/RealXydar/Xydar-Trainer/raw/main/Xydar%20Trainer.user.js)
+[**Download Here!**](https://github.com/RealXydar/Xydar-Trainer/raw/main/Xydar%20Trainer.user.js)
 ## - Player
 #### - It contains:
 - Immortality
